@@ -1,5 +1,5 @@
 from setuptools import setup
-from biketrauma_brd import __version__ as current_version
+from biketrauma import __version__ as current_version
 
 setup(
   name='biketrauma_essba',
